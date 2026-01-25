@@ -1,0 +1,58 @@
+.header{
+    background: url('../../accets/header/bg.png') no-repeat center/cover;
+    padding: 100px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.header-desc{
+    display: flex;
+    color: white;
+    justify-content: center;
+    margin-left: -100px;
+    column-gap: 22px;
+    margin-bottom: 80px;
+}
+.header-title{
+    text-align: center;
+    color: white;
+    margin-bottom: 80px;
+}
+.header-desc-title{
+    width: 240px;
+    text-align: right;
+    margin-right: 20px;
+}
+.header-desc-vertical-line{
+    width: 3px;
+    height: 150px;
+    background: white;
+}
+.header-desc-date{
+
+}
+.header-search{
+    display: flex;
+}
+.header-search-weather{
+    background: #d9d9d9;
+    width: 550px;
+    padding:12px 0px 13px 30px;
+    border-radius: 10px;
+    border-radius: 10px 0px 0px 10px;
+}
+
+.header-search-find{
+    background: #ffb36c;
+    width: 45px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    border-radius: 0 10px 10px 0;
+    border-left: 2px solid #000;
+    align-items: center;
+}
+.header-search-find-icon{
+    width: 25px;
+    height: 25px;
+}
