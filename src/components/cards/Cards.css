@@ -1,0 +1,71 @@
+.cards {
+  border-radius: 20px;
+  display: flex;
+  width: 320px;
+  height: 430px;
+  flex-direction: column;
+  align-items: center;
+  background: #e8e8e8;
+  margin-top: 50px;
+  margin-left: 150px;
+}
+.cards-location {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 85%;
+}
+.cards-time-timer {
+  font-family: Montserrat;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 24px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+.cards-main-logo {
+  display: flex;
+  margin-top: 50px;
+  height: 120px;
+  width: 120px;
+  justify-content: center;
+}
+.cards-forcast {
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+.cards-fact {
+  display: flex;
+  justify-content: space-between;
+  margin-right: 20px;
+}
+.cards-main-temp {
+  margin-top: 30px;
+  font-family: Montserrat;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 32px;
+  line-height: 100%;
+  letter-spacing: 0%;
+}
+.cards-forcast-hourly {
+  background: #ffb36c;
+  padding: 8px 20px;
+  border-radius: 10px;
+  transition: all 0.4s;
+}
+.cards-forcast-weekly {
+  background: #ffb36c;
+  padding: 8px 20px;
+  border-radius: 10px;
+  transition: all 0.4s;
+}
+.icons-see{
+  margin-top: 20px;
+  margin-left: 10px;
+  background: #ffb36c;
+  padding: 8px 20px;
+  border-radius: 10px;
+  transition: all 0.4s;
+}

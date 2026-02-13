@@ -4,12 +4,16 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 import Nav from './components/nav/Nav';
 import Header from './components/header/Header';
+import Cards from './components/cards/Cards';
+import WeatherDetails from './components/details/WeatherDetails';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <Nav/>
     <Header/>
+    <Cards/>
+    <WeatherDetails/>
   </React.StrictMode>
 );
 

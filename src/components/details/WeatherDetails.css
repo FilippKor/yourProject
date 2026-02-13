@@ -1,0 +1,111 @@
+.WeatherDetails {
+  width: 1140;
+  height: 554;
+  opacity: 1;
+  top: 1245px;
+  left: 150px;
+  border-radius: 20px;
+  background: #e8e8e8;
+  display: flex;
+  justify-content: center;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+.WeatherDetails-temp {
+  display: flex;
+  justify-content: center;
+  width: 290;
+  height: 217;
+  opacity: 1;
+  border-radius: 10px;
+}
+.WeatherDetails-minmax {
+  display: flex;
+  width: 290;
+  height: 217;
+  opacity: 1;
+  border-radius: 10px;
+}
+.WeatherDetails-temp {
+  display: flex;
+  justify-content: center;
+  width: 290;
+  height: 217;
+  opacity: 1;
+  border-radius: 10px;
+}
+.WeatherDetails-minmax {
+  display: flex;
+  justify-content: center;
+  width: 290;
+  height: 217;
+  opacity: 1;
+  border-radius: 10px;
+}
+.WeatherDetails-humidity {
+  display: flex;
+  justify-content: center;
+  width: 290;
+  height: 217;
+  opacity: 1;
+  border-radius: 10px;
+}
+.WeatherDetails-pressure {
+  display: flex;
+  justify-content: center;
+  width: 290;
+  height: 217;
+  opacity: 1;
+  border-radius: 10px;
+}
+.WeatherDetails-windspeed {
+  display: flex;
+  justify-content: center;
+  width: 290;
+  height: 217;
+  opacity: 1;
+  border-radius: 10px;
+}
+.WeatherDetails-visibility {
+  display: flex;
+  justify-content: center;
+  width: 290;
+  height: 217;
+  opacity: 1;
+  border-radius: 10px;
+}
+.WeatherDetails-top {
+  width: 75;
+  height: 20;
+  opacity: 1;
+  top: 1305px;
+  left: 335px;
+  font-family: Montserrat;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 16px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.WeatherDetails-mid {
+  width: 96;
+  height: 39;
+  opacity: 1;
+  top: 1335px;
+  left: 324px;
+  font-family: Montserrat;
+  font-weight: 500;
+  font-style: Medium;
+  font-size: 32px;
+  line-height: 100%;
+  letter-spacing: 0%;
+  text-align: center;
+}
+.WeatherDetails-image {
+  width: 85px;
+  height: 85px;
+  opacity: 1;
+  top: 1397px;
+  left: 330px;
+}
